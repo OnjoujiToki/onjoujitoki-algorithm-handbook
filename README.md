@@ -7,6 +7,3 @@ coverY: 0
 
 # Preface
 
-*
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
