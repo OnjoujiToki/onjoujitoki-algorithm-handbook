@@ -2,10 +2,11 @@
 
 * [Preface](README.md)
 
-## The Company
+## 八大常见数据结构
 
-* [Meet me, Union Find!](the-company/meet-me-union-find.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find.md)
+* [Meet me, Union Find!](ba-da-chang-jian-shu-ju-jie-gou/meet-me-union-find.md)
+* [Meet the Team!](ba-da-chang-jian-shu-ju-jie-gou/meet-the-team.md)
 
 ## The Formal Stuff
 
