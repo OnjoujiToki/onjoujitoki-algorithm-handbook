@@ -71,9 +71,7 @@ public class QuickFindUF {
 2. 但是Interpretation不一样，id\[i] is parent of i。整体结构像一个森林。
 3. i的根部只要不停地取i的id即可。例：id\[id\[id\[...id\[i]...]]]. 如果id\[i] = i，说明是root不是嘛。
 
-![image-20210925173626147](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210925173626147.png)
-
-![image-20210925173731520](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210925173731520.png)
+![](../.gitbook/assets/image-20210925173626147.png)
 
 **Implementation**
 
@@ -82,9 +80,11 @@ public class QuickFindUF {
 
     这种Union的实现只需要改变一个value。
 
-    ![image-20210925174233555](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210925174233555.png)
 
-![image-20210925174243038](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210925174243038.png)
+
+![](../.gitbook/assets/image-20210925174233555.png)
+
+![](../.gitbook/assets/image-20210925174243038.png)
 
 1. Constructor是一样的，依然是赋值0 到N-1
 2. 增加一个新的函数，用一个while函数不停寻找root，返回指定值的root。
