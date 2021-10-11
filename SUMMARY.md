@@ -15,6 +15,5 @@
 
 ## 分类练习
 
-* [并查集 Union Find](fen-lei-lian-xi/bing-cha-ji-union-find/README.md)
-  * [Stage One](fen-lei-lian-xi/bing-cha-ji-union-find/stage-one.md)
-  * [Stage One](fen-lei-lian-xi/bing-cha-ji-union-find/stage-one-1.md)
+* [并查集 Union Find Practice](fen-lei-lian-xi/bing-cha-ji-union-find-practice/README.md)
+  * [Stage One](fen-lei-lian-xi/bing-cha-ji-union-find-practice/stage-one.md)
