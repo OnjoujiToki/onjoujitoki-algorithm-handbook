@@ -32,7 +32,7 @@ Union的话，需要把所有的ID改成一样的（比如上图是Union(6,1) �
 
 **Implementation**
 
-```
+```java
 public class QuickFindUF {
     private int[] id;
     public QuickFindUF(int N) {
@@ -43,7 +43,7 @@ public class QuickFindUF {
             // N array accesses
         }
     }
-    public boolean connected(int p, int q) {
+    publiCc boolean connected(int p, int q) {
         return id[p] == id[q];
         // check whether p and q are in the same component
         // 2 array accesses
@@ -184,7 +184,7 @@ add second loop to root() to set the id\[] of each examined node to the root.
 
 Make every other node in the path point to its grandparent, thereby halving path length.
 
-```
+```java
 private int root(int i) {
     while (i != id[i]) {
         id[i] = id[id[i]];
@@ -198,7 +198,7 @@ private int root(int i) {
 
 #### C++ Implementation
 
-```
+```clike
 vector<int> id;
 vector<int> sz;// sizes of forest when current nodes as root
 void buildUF(int N) {
@@ -234,7 +234,7 @@ void buildUF(int N) {
 
 [**547. 省份数量**](https://leetcode-cn.com/problems/number-of-provinces/)
 
-```
+```clike
 class Solution {
     vector<int> id;
     vector<int> sz;// sizes of forest when current nodes as root
@@ -292,7 +292,7 @@ private:
 
 [**323. 无向图中连通分量的数目**](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
-```
+```clike
 class Solution {
     
 public:
@@ -339,7 +339,7 @@ private:
 
 [**200. 岛屿数量**](https://leetcode-cn.com/problems/number-of-islands/)
 
-```
+```clike
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -404,7 +404,7 @@ private:
 
 [**261. Graph Valid Tree**](https://leetcode-cn.com/problems/graph-valid-tree/)
 
-```
+```clike
 class Solution {
 public:
     bool validTree(int n, vector<vector<int>>& edges) {
