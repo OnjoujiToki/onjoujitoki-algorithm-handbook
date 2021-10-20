@@ -6,7 +6,7 @@
 
 * [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find.md)
 * [字典树 Trie Tree](ba-da-chang-jian-shu-ju-jie-gou/zi-dian-shu-trie-tree.md)
-* [Meet the Team!](ba-da-chang-jian-shu-ju-jie-gou/meet-the-team.md)
+* [Binary Tree 二叉树](ba-da-chang-jian-shu-ju-jie-gou/binary-tree-er-cha-shu.md)
 
 ## The Formal Stuff
 
