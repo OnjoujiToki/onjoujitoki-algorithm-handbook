@@ -428,7 +428,7 @@ private:
     int root(int i) {
         if (i != id[i]) {
             // path compression cannot be done here.. it may erase the cycle
-            // id[i] = id[id[1]];
+            id[i] = id[id[i]];
             i = id[i];
         }
          return i;
@@ -453,6 +453,3 @@ private:
 };
 ```
 
-这道题最大的陷阱就是不能做这样的path compression。只能说不优化就不会死。
-
-以后面试官不BB我也不优化了，哼！
