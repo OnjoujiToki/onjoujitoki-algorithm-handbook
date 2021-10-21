@@ -31,6 +31,7 @@
   * [110. 平衡二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/110.-ping-heng-er-cha-shu.md)
   * [173. 二叉搜索树迭代器](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/173.-er-cha-sou-suo-shu-die-dai-qi.md)
 * [并查集 Union Find Practice](fen-lei-lian-xi/bing-cha-ji-union-find-practice/README.md)
+  * [1254. 统计封闭岛屿的数目](fen-lei-lian-xi/bing-cha-ji-union-find-practice/1254.-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
   * [Stage One](fen-lei-lian-xi/bing-cha-ji-union-find-practice/stage-one.md)
 * [宽搜 BFS Practice](fen-lei-lian-xi/kuan-sou-bfs-practice/README.md)
   * [127. 单词接龙](fen-lei-lian-xi/kuan-sou-bfs-practice/127.-dan-ci-jie-long.md)
