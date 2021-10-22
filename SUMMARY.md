@@ -35,6 +35,7 @@
   * [1254. 统计封闭岛屿的数目](fen-lei-lian-xi/bing-cha-ji-union-find-practice/1254.-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
   * [Stage One](fen-lei-lian-xi/bing-cha-ji-union-find-practice/stage-one.md)
 * [宽搜 BFS Practice](fen-lei-lian-xi/kuan-sou-bfs-practice/README.md)
+  * [207. 课程表](fen-lei-lian-xi/kuan-sou-bfs-practice/207.-ke-cheng-biao.md)
   * [127. 单词接龙](fen-lei-lian-xi/kuan-sou-bfs-practice/127.-dan-ci-jie-long.md)
   * [133. 克隆图](fen-lei-lian-xi/kuan-sou-bfs-practice/133.-ke-long-tu.md)
   * [200. 岛屿数量](fen-lei-lian-xi/kuan-sou-bfs-practice/200.-dao-yu-shu-liang.md)
