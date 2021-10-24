@@ -12,9 +12,7 @@
 
 * [排序 Sorting](ji-ben-suan-fa-basic-algorithms/pai-xu-sorting/README.md)
   * [快速排序 Quick Sort](ji-ben-suan-fa-basic-algorithms/pai-xu-sorting/kuai-su-pai-xu-quick-sort.md)
-* [Filing Expenses](ji-ben-suan-fa-basic-algorithms/filing-expenses.md)
-* [Page 1](ji-ben-suan-fa-basic-algorithms/page-1.md)
-* [Page 2](ji-ben-suan-fa-basic-algorithms/page-2.md)
+* [01背包 01 Knapsack](ji-ben-suan-fa-basic-algorithms/01-bei-bao-01-knapsack.md)
 
 ## ☘ 搜索 Search
 
@@ -51,6 +49,7 @@
 
 * [线性DP](shua-yi-bai-dao-dp-ti/xian-xing-dp/README.md)
   * [322. 零钱兑换](shua-yi-bai-dao-dp-ti/xian-xing-dp/322.-ling-qian-dui-huan.md)
+  * [416. 分割等和子集](shua-yi-bai-dao-dp-ti/xian-xing-dp/416.-fen-ge-deng-he-zi-ji.md)
 
 ***
 
