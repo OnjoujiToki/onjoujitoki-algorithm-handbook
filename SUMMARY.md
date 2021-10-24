@@ -48,6 +48,7 @@
   * [133. 克隆图](fen-lei-lian-xi/kuan-sou-bfs-practice/133.-ke-long-tu.md)
   * [200. 岛屿数量](fen-lei-lian-xi/kuan-sou-bfs-practice/200.-dao-yu-shu-liang.md)
   * [1197. 进击的骑士](fen-lei-lian-xi/kuan-sou-bfs-practice/1197.-jin-ji-de-qi-shi.md)
+* [378. 有序矩阵中第 K 小的元素](fen-lei-lian-xi/378.-you-xu-ju-zhen-zhong-di-k-xiao-de-yuan-su.md)
 
 ## 刷一百道DP题
 
