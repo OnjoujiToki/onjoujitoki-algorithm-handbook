@@ -27,6 +27,8 @@
 
 ## 分类练习
 
+* [前缀和 Prefix Sum Practice](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/README.md)
+  * [560. 和为 K 的子数组](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/560.-he-wei-k-de-zi-shu-zu.md)
 * [回溯 Backtracking Practice](fen-lei-lian-xi/hui-su-backtracking-practice/README.md)
   * [491. 递增子序列](fen-lei-lian-xi/hui-su-backtracking-practice/491.-di-zeng-zi-xu-lie.md)
 * [二叉树 Binary Tree Practice](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/README.md)
