@@ -25,6 +25,8 @@
 
 ## 分类练习
 
+* [二分搜索 Binary Search Practice](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/README.md)
+  * [378. 有序矩阵中第 K 小的元素](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/378.-you-xu-ju-zhen-zhong-di-k-xiao-de-yuan-su.md)
 * [滑动窗口 Sliding Window Practice](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/README.md)
   * [438. 找到字符串中所有字母异位词](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/438.-zhao-dao-zi-fu-chuan-zhong-suo-you-zi-mu-yi-wei-ci.md)
 * [前缀和 Prefix Sum Practice](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice.md)
@@ -48,7 +50,6 @@
   * [133. 克隆图](fen-lei-lian-xi/kuan-sou-bfs-practice/133.-ke-long-tu.md)
   * [200. 岛屿数量](fen-lei-lian-xi/kuan-sou-bfs-practice/200.-dao-yu-shu-liang.md)
   * [1197. 进击的骑士](fen-lei-lian-xi/kuan-sou-bfs-practice/1197.-jin-ji-de-qi-shi.md)
-* [378. 有序矩阵中第 K 小的元素](fen-lei-lian-xi/378.-you-xu-ju-zhen-zhong-di-k-xiao-de-yuan-su.md)
 
 ## 刷一百道DP题
 
