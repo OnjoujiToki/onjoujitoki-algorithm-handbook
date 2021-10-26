@@ -12,7 +12,10 @@
 
 * [排序 Sorting](ji-ben-suan-fa-basic-algorithms/pai-xu-sorting/README.md)
   * [快速排序 Quick Sort](ji-ben-suan-fa-basic-algorithms/pai-xu-sorting/kuai-su-pai-xu-quick-sort.md)
-* [01背包 01 Knapsack](ji-ben-suan-fa-basic-algorithms/01-bei-bao-01-knapsack.md)
+  * [归并排序 Merge Sort](ji-ben-suan-fa-basic-algorithms/pai-xu-sorting/gui-bing-pai-xu-merge-sort.md)
+* [二分查找 Binary Search](ji-ben-suan-fa-basic-algorithms/er-fen-cha-zhao-binary-search.md)
+* [高精度计算 Arbitrary-Precision Arithmetic](ji-ben-suan-fa-basic-algorithms/gao-jing-du-ji-suan-arbitraryprecision-arithmetic.md)
+* [Page 1](ji-ben-suan-fa-basic-algorithms/page-1.md)
 
 ## ☘ 搜索 Search
 
@@ -55,6 +58,7 @@
   * [200. 岛屿数量](fen-lei-lian-xi/kuan-sou-bfs-practice/200.-dao-yu-shu-liang.md)
   * [1197. 进击的骑士](fen-lei-lian-xi/kuan-sou-bfs-practice/1197.-jin-ji-de-qi-shi.md)
 * [哈希表 Hash Map](fen-lei-lian-xi/ha-xi-biao-hash-map/README.md)
+  * [187. 重复的DNA序列](fen-lei-lian-xi/ha-xi-biao-hash-map/187.-zhong-fu-de-dna-xu-lie.md)
   * [954. Array of Doubled Pairs](fen-lei-lian-xi/ha-xi-biao-hash-map/954.-array-of-doubled-pairs.md)
 
 ## 刷一百道DP题
