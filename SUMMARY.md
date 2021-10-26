@@ -38,6 +38,8 @@
 * [双指针 Two Pointers](fen-lei-lian-xi/shuang-zhi-zhen-two-pointers/README.md)
   * [560. 和为 K 的子数组](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/560.-he-wei-k-de-zi-shu-zu.md)
 * [回溯 Backtracking Practice](fen-lei-lian-xi/hui-su-backtracking-practice/README.md)
+  * [301. 删除无效的括号](fen-lei-lian-xi/hui-su-backtracking-practice/301.-shan-chu-wu-xiao-de-kuo-hao.md)
+  * [22. 括号生成](fen-lei-lian-xi/hui-su-backtracking-practice/22.-kuo-hao-sheng-cheng.md)
   * [491. 递增子序列](fen-lei-lian-xi/hui-su-backtracking-practice/491.-di-zeng-zi-xu-lie.md)
 * [二叉树 Binary Tree Practice](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/README.md)
   * [951. 翻转等价二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/951.-fan-zhuan-deng-jia-er-cha-shu.md)
