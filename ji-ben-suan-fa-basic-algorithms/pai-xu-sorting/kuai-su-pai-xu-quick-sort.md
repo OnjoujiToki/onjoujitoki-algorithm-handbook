@@ -38,31 +38,40 @@ quick_sort(q, j + 1, r);
 
 ```cpp
 #include <iostream>
+
 using namespace std;
+
 const int N = 1e6 + 10;
 int n;
 int q[N];
 
-void quick_sort(int q[], int l, int r) {
-    if (l >= r) return;
-    int x = q[l], i = l -1, j = r + 1;
-    while(i < j) {
-        do i ++; while(q[i] < x);
-        do j --; while (q[j] > x);
-        if (i < j) swap(q[i], q[j]);
+void quick_sort(int q[], int l, int r)
+{
+    //递归的终止情况
+    if(l >= r) return;
+    //第一步：分成子问题
+    int i = l - 1, j = r + 1, x = q[l + r >> 1];
+    while(i < j)
+    {
+        do i++; while(q[i] < x);
+        do j--; while(q[j] > x);
+        if(i < j) swap(q[i], q[j]);
     }
-        quick_sort(q, l, j);
-        quick_sort(q, j + 1, r);
+    //第二步：递归处理子问题
+    quick_sort(q, l, j), quick_sort(q, j + 1, r);
+    //第三步：子问题合并.快排这一步不需要操作，但归并排序的核心在这一步骤
 }
-
+// https://www.acwing.com/solution/content/16777/ 非常不错的边界分析
 int main() {
     scanf("%d", &n);
     int l = 0, r = n - 1 ;
-    for (int i = 0; i < N; i++) scanf("%d", &q[i]);
+    for (int i = 0; i < n; i++) scanf("%d", &q[i]);
     quick_sort(q, l, r);
     for (int i = 0; i < n; i++) printf("%d ", q[i]);
     return 0;
 }
+
+
 ```
 
 ```cpp
