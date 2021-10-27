@@ -28,12 +28,21 @@
 
 ## 分类练习
 
+* [模拟实现 Implementation](fen-lei-lian-xi/mo-ni-shi-xian-implementation/README.md)
+  * [400. 第 N 位数字](fen-lei-lian-xi/mo-ni-shi-xian-implementation/400.-di-n-wei-shu-zi.md)
 * [优先队列 Priority Queue](fen-lei-lian-xi/you-xian-dui-lie-priority-queue/README.md)
   * [973. 最接近原点的 K 个点](fen-lei-lian-xi/you-xian-dui-lie-priority-queue/973.-zui-jie-jin-yuan-dian-de-k-ge-dian.md)
 * [二分搜索 Binary Search Practice](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/README.md)
+  * [1918. 第 K 小的子数组和](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/1918.-di-k-xiao-de-zi-shu-zu-he.md)
   * [378. 有序矩阵中第 K 小的元素](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/378.-you-xu-ju-zhen-zhong-di-k-xiao-de-yuan-su.md)
 * [滑动窗口 Sliding Window Practice](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/README.md)
+  * [187. 重复的DNA序列](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/187.-zhong-fu-de-dna-xu-lie.md)
   * [438. 找到字符串中所有字母异位词](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/438.-zhao-dao-zi-fu-chuan-zhong-suo-you-zi-mu-yi-wei-ci.md)
+  * [1838. 最高频元素的频数](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/1838.-zui-gao-pin-yuan-su-de-pin-shu.md)
+  * [487. 最大连续1的个数 II](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/487.-zui-da-lian-xu-1-de-ge-shu-ii.md)
+  * [1004. 最大连续1的个数 III](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/1004.-zui-da-lian-xu-1-de-ge-shu-iii.md)
+  * [1052. 爱生气的书店老板](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/1052.-ai-sheng-qi-de-shu-dian-lao-ban.md)
+  * [567. 字符串的排列](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/567.-zi-fu-chuan-de-pai-lie.md)
 * [前缀和 Prefix Sum Practice](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/README.md)
 * [双指针 Two Pointers](fen-lei-lian-xi/shuang-zhi-zhen-two-pointers/README.md)
   * [560. 和为 K 的子数组](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/560.-he-wei-k-de-zi-shu-zu.md)
@@ -61,7 +70,7 @@
   * [1197. 进击的骑士](fen-lei-lian-xi/kuan-sou-bfs-practice/1197.-jin-ji-de-qi-shi.md)
 * [哈希表 Hash Map](fen-lei-lian-xi/ha-xi-biao-hash-map/README.md)
   * [187. 重复的DNA序列](fen-lei-lian-xi/ha-xi-biao-hash-map/187.-zhong-fu-de-dna-xu-lie.md)
-  * [954. Array of Doubled Pairs](fen-lei-lian-xi/ha-xi-biao-hash-map/954.-array-of-doubled-pairs.md)
+  * [954. 二倍数对数组](fen-lei-lian-xi/ha-xi-biao-hash-map/954.-er-bei-shu-dui-shu-zu.md)
 
 ## 刷一百道DP题
 
