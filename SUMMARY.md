@@ -44,12 +44,14 @@
   * [1052. 爱生气的书店老板](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/1052.-ai-sheng-qi-de-shu-dian-lao-ban.md)
   * [567. 字符串的排列](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/567.-zi-fu-chuan-de-pai-lie.md)
 * [前缀和 Prefix Sum Practice](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/README.md)
+  * [Page 2](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/page-2.md)
 * [双指针 Two Pointers](fen-lei-lian-xi/shuang-zhi-zhen-two-pointers/README.md)
   * [560. 和为 K 的子数组](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/560.-he-wei-k-de-zi-shu-zu.md)
 * [回溯 Backtracking Practice](fen-lei-lian-xi/hui-su-backtracking-practice/README.md)
   * [301. 删除无效的括号](fen-lei-lian-xi/hui-su-backtracking-practice/301.-shan-chu-wu-xiao-de-kuo-hao.md)
   * [22. 括号生成](fen-lei-lian-xi/hui-su-backtracking-practice/22.-kuo-hao-sheng-cheng.md)
   * [491. 递增子序列](fen-lei-lian-xi/hui-su-backtracking-practice/491.-di-zeng-zi-xu-lie.md)
+  * [416. 分割等和子集](fen-lei-lian-xi/hui-su-backtracking-practice/416.-fen-ge-deng-he-zi-ji.md)
 * [二叉树 Binary Tree Practice](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/README.md)
   * [951. 翻转等价二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/951.-fan-zhuan-deng-jia-er-cha-shu.md)
   * [971. 翻转二叉树以匹配先序遍历](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/971.-fan-zhuan-er-cha-shu-yi-pi-pei-xian-xu-bian-li.md)
@@ -74,9 +76,13 @@
 
 ## 刷一百道DP题
 
-* [线性DP](shua-yi-bai-dao-dp-ti/xian-xing-dp/README.md)
-  * [322. 零钱兑换](shua-yi-bai-dao-dp-ti/xian-xing-dp/322.-ling-qian-dui-huan.md)
-  * [416. 分割等和子集](shua-yi-bai-dao-dp-ti/xian-xing-dp/416.-fen-ge-deng-he-zi-ji.md)
+* [简单DP入门](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/README.md)
+  * [256. 粉刷房子](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/256.-fen-shua-fang-zi.md)
+  * [152. 乘积最大子数组](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/152.-cheng-ji-zui-da-zi-shu-zu.md)
+  * [55. 跳跃游戏](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/55.-tiao-yue-you-xi.md)
+  * [322. 零钱兑换](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/322.-ling-qian-dui-huan.md)
+  * [1277. 统计全为 1 的正方形子矩阵](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/1277.-tong-ji-quan-wei-1-de-zheng-fang-xing-zi-ju-zhen.md)
+  * [221. 最大正方形](shua-yi-bai-dao-dp-ti/jian-dan-dp-ru-men/221.-zui-da-zheng-fang-xing.md)
 
 ***
 
