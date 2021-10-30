@@ -4,7 +4,9 @@
 
 ## 八大常见数据结构
 
-* [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find.md)
+* [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/README.md)
+  * [Competitive Programming Template](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/competitive-programming-template.md)
+* [Page 6](ba-da-chang-jian-shu-ju-jie-gou/page-6.md)
 * [字典树 Trie Tree](ba-da-chang-jian-shu-ju-jie-gou/zi-dian-shu-trie-tree.md)
 * [二叉树 Binary Tree](ba-da-chang-jian-shu-ju-jie-gou/er-cha-shu-binary-tree.md)
 

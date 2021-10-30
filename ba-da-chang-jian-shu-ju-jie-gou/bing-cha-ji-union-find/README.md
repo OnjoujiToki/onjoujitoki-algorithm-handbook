@@ -22,9 +22,9 @@ Reflexive, Symmetric and transitive (equivalence relation)
 
 **Quick-find \[eager approach]**
 
-![Quick-Find Approach](../.gitbook/assets/image-20210925171705723.png)
+![Quick-Find Approach](../../.gitbook/assets/image-20210925171705723.png)
 
-![](../.gitbook/assets/image-20210925171757844.png)
+![](../../.gitbook/assets/image-20210925171757844.png)
 
 Find的话很简单，如果p和q对应的id的value是一样的，那么就说明他们是connected的。
 
@@ -71,7 +71,7 @@ public class QuickFindUF {
 2. 但是Interpretation不一样，id\[i] is parent of i。整体结构像一个森林。
 3. i的根部只要不停地取i的id即可。例：id\[id\[id\[...id\[i]...]]]. 如果id\[i] = i，说明是root不是嘛。
 
-![](../.gitbook/assets/image-20210925173626147.png)
+![](../../.gitbook/assets/image-20210925173626147.png)
 
 **Implementation**
 
@@ -82,9 +82,9 @@ public class QuickFindUF {
 
 
 
-![](../.gitbook/assets/image-20210925174233555.png)
+![](../../.gitbook/assets/image-20210925174233555.png)
 
-![](../.gitbook/assets/image-20210925174243038.png)
+![](../../.gitbook/assets/image-20210925174243038.png)
 
 1. Constructor是一样的，依然是赋值0 到N-1
 2. 增加一个新的函数，用一个while函数不停寻找root，返回指定值的root。
