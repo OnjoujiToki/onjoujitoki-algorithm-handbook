@@ -5,6 +5,7 @@
 ## 八大常见数据结构
 
 * [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/README.md)
+  * [Leetcode Template](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/leetcode-template.md)
   * [Competitive Programming Template](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/competitive-programming-template.md)
 * [Page 6](ba-da-chang-jian-shu-ju-jie-gou/page-6.md)
 * [字典树 Trie Tree](ba-da-chang-jian-shu-ju-jie-gou/zi-dian-shu-trie-tree.md)
@@ -63,6 +64,7 @@
   * [173. 二叉搜索树迭代器](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/173.-er-cha-sou-suo-shu-die-dai-qi.md)
   * [236. 二叉树的最近公共祖先](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/236.-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
 * [并查集 Union Find Practice](fen-lei-lian-xi/bing-cha-ji-union-find-practice/README.md)
+  * [1627. 带阈值的图连通性](fen-lei-lian-xi/bing-cha-ji-union-find-practice/1627.-dai-yu-zhi-de-tu-lian-tong-xing.md)
   * [952. 按公因数计算最大组件大小](fen-lei-lian-xi/bing-cha-ji-union-find-practice/952.-an-gong-yin-shu-ji-suan-zui-da-zu-jian-da-xiao.md)
   * [200. 岛屿数量](fen-lei-lian-xi/bing-cha-ji-union-find-practice/200.-dao-yu-shu-liang.md)
   * [1254. 统计封闭岛屿的数目](fen-lei-lian-xi/bing-cha-ji-union-find-practice/1254.-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
