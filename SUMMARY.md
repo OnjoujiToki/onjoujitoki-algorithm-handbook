@@ -57,6 +57,7 @@
   * [22. 括号生成](fen-lei-lian-xi/hui-su-backtracking-practice/22.-kuo-hao-sheng-cheng.md)
   * [491. 递增子序列](fen-lei-lian-xi/hui-su-backtracking-practice/491.-di-zeng-zi-xu-lie.md)
   * [416. 分割等和子集](shua-yi-bai-dao-dp-ti/xian-xing-dp/416.-fen-ge-deng-he-zi-ji.md)
+  * [37. 解数独](fen-lei-lian-xi/hui-su-backtracking-practice/37.-jie-shu-du.md)
 * [二叉树 Binary Tree Practice](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/README.md)
   * [951. 翻转等价二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/951.-fan-zhuan-deng-jia-er-cha-shu.md)
   * [971. 翻转二叉树以匹配先序遍历](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/971.-fan-zhuan-er-cha-shu-yi-pi-pei-xian-xu-bian-li.md)
