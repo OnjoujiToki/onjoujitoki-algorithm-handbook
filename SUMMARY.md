@@ -31,6 +31,8 @@
 
 ## 分类练习
 
+* [深度优先搜索 DFS Practice](fen-lei-lian-xi/shen-du-you-xian-sou-suo-dfs-practice/README.md)
+  * [490. The Maze](fen-lei-lian-xi/shen-du-you-xian-sou-suo-dfs-practice/490.-the-maze.md)
 * [模拟实现 Implementation](fen-lei-lian-xi/mo-ni-shi-xian-implementation/README.md)
   * [400. 第 N 位数字](fen-lei-lian-xi/mo-ni-shi-xian-implementation/400.-di-n-wei-shu-zi.md)
 * [优先队列 Priority Queue](fen-lei-lian-xi/you-xian-dui-lie-priority-queue/README.md)
@@ -64,12 +66,15 @@
   * [416. 分割等和子集](shua-yi-bai-dao-dp-ti/xian-xing-dp/416.-fen-ge-deng-he-zi-ji.md)
   * [37. 解数独](fen-lei-lian-xi/hui-su-backtracking-practice/37.-jie-shu-du.md)
 * [二叉树 Binary Tree Practice](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/README.md)
+  * [剑指 Offer 26. 树的子结构](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/jian-zhi-offer-26.-shu-de-zi-jie-gou.md)
+  * [129. 求根节点到叶节点数字之和](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/129.-qiu-gen-jie-dian-dao-ye-jie-dian-shu-zi-zhi-he.md)
   * [951. 翻转等价二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/951.-fan-zhuan-deng-jia-er-cha-shu.md)
   * [971. 翻转二叉树以匹配先序遍历](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/971.-fan-zhuan-er-cha-shu-yi-pi-pei-xian-xu-bian-li.md)
   * [257. 二叉树的所有路径](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/257.-er-cha-shu-de-suo-you-lu-jing.md)
   * [110. 平衡二叉树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/110.-ping-heng-er-cha-shu.md)
   * [173. 二叉搜索树迭代器](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/173.-er-cha-sou-suo-shu-die-dai-qi.md)
   * [236. 二叉树的最近公共祖先](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/236.-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
+  * [109. 有序链表转换二叉搜索树](fen-lei-lian-xi/er-cha-shu-binary-tree-practice/109.-you-xu-lian-biao-zhuan-huan-er-cha-sou-suo-shu.md)
 * [并查集 Union Find Practice](fen-lei-lian-xi/bing-cha-ji-union-find-practice/README.md)
   * [1627. 带阈值的图连通性](fen-lei-lian-xi/bing-cha-ji-union-find-practice/1627.-dai-yu-zhi-de-tu-lian-tong-xing.md)
   * [952. 按公因数计算最大组件大小](fen-lei-lian-xi/bing-cha-ji-union-find-practice/952.-an-gong-yin-shu-ji-suan-zui-da-zu-jian-da-xiao.md)
