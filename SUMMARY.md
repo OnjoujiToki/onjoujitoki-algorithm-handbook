@@ -7,9 +7,11 @@
 * [并查集 Union Find](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/README.md)
   * [Leetcode Template](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/leetcode-template.md)
   * [Competitive Programming Template](ba-da-chang-jian-shu-ju-jie-gou/bing-cha-ji-union-find/competitive-programming-template.md)
-* [Page 6](ba-da-chang-jian-shu-ju-jie-gou/page-6.md)
+* [线段树 Segment Tree](ba-da-chang-jian-shu-ju-jie-gou/xian-duan-shu-segment-tree.md)
 * [字典树 Trie Tree](ba-da-chang-jian-shu-ju-jie-gou/zi-dian-shu-trie-tree.md)
 * [二叉树 Binary Tree](ba-da-chang-jian-shu-ju-jie-gou/er-cha-shu-binary-tree.md)
+* [树状数组 Binary Indexed Tree](ba-da-chang-jian-shu-ju-jie-gou/shu-zhuang-shu-zu-binary-indexed-tree/README.md)
+  * [Leetcode Template](ba-da-chang-jian-shu-ju-jie-gou/shu-zhuang-shu-zu-binary-indexed-tree/leetcode-template.md)
 
 ## 🍊 基本算法 Basic Algorithms
 
