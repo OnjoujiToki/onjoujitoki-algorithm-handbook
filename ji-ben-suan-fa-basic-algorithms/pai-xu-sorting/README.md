@@ -9,8 +9,3 @@ coverY: 0
 
 # 排序 Sorting
 
-
-
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
