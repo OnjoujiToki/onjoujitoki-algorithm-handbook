@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Meet me, Union Find!
+# 字典树 Trie Tree
 
 ## Our Vision
 

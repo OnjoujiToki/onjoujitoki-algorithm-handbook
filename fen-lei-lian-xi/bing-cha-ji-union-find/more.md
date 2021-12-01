@@ -1,6 +1,6 @@
-# Stage One
+# More
 
-## [990. Satisfiability of Equality Equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
+##
 
 ```c
 class Solution {

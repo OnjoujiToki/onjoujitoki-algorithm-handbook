@@ -1,4 +1,4 @@
-# 490. The Maze
+# 490. 迷宫
 
 Problem:
 
