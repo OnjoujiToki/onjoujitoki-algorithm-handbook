@@ -112,6 +112,7 @@
   * [236. 二叉树的最近公共祖先](fen-lei-lian-xi/er-cha-shu-binary-tree/236.-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
   * [109. 有序链表转换二叉搜索树](fen-lei-lian-xi/er-cha-shu-binary-tree/109.-you-xu-lian-biao-zhuan-huan-er-cha-sou-suo-shu.md)
 * [并查集 Union Find](fen-lei-lian-xi/bing-cha-ji-union-find/README.md)
+  * [803. 打砖块](fen-lei-lian-xi/bing-cha-ji-union-find/803.-da-zhuan-kuai.md)
   * [1627. 带阈值的图连通性](fen-lei-lian-xi/bing-cha-ji-union-find/1627.-dai-yu-zhi-de-tu-lian-tong-xing.md)
   * [952. 按公因数计算最大组件大小](fen-lei-lian-xi/bing-cha-ji-union-find/952.-an-gong-yin-shu-ji-suan-zui-da-zu-jian-da-xiao.md)
   * [200. 岛屿数量](fen-lei-lian-xi/bing-cha-ji-union-find/200.-dao-yu-shu-liang.md)
