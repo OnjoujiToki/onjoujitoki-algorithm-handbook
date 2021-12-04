@@ -32,6 +32,7 @@
   * [单调栈](fen-lei-lian-xi/zhan-stack/dan-tiao-zhan/README.md)
     * [901. 股票价格跨度](fen-lei-lian-xi/zhan-stack/dan-tiao-zhan/901.-gu-piao-jia-ge-kua-du.md)
   * [括号问题](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/README.md)
+    * [678. 有效的括号字符串](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/678.-you-xiao-de-kuo-hao-zi-fu-chuan.md)
     * [1249. 移除无效的括号](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/1249.-yi-chu-wu-xiao-de-kuo-hao.md)
 * [博弈论 Game Theory](fen-lei-lian-xi/bo-yi-lun-game-theory/README.md)
   * [1025. 除数博弈](fen-lei-lian-xi/bo-yi-lun-game-theory/1025.-chu-shu-bo-yi.md)
