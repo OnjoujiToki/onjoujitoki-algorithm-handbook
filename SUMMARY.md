@@ -135,6 +135,7 @@
   * [490. 迷宫](fen-lei-lian-xi/shen-du-you-xian-sou-suo-dfs/490.-mi-gong/README.md)
 * [宽度优先搜索 BFS](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/README.md)
   * [多源 BFS](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/duo-yuan-bfs/README.md)
+    * [286. 墙与门](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/duo-yuan-bfs/286.-qiang-yu-men.md)
     * [542. 01 矩阵](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/duo-yuan-bfs/542.-01-ju-zhen.md)
     * [1162. 地图分析](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/duo-yuan-bfs/1162.-di-tu-fen-xi.md)
     * [994. 腐烂的橘子](fen-lei-lian-xi/kuan-du-you-xian-sou-suo-bfs/994.-fu-lan-de-ju-zi.md)
