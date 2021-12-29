@@ -189,6 +189,7 @@
 * [平衡树 Balanced Tree](fen-lei-lian-xi/ping-heng-shu-balanced-tree/README.md)
   * [2102. 序列顺序查询](fen-lei-lian-xi/ping-heng-shu-balanced-tree/2102.-xu-lie-shun-xu-cha-xun.md)
 * [贪心 Greedy](fen-lei-lian-xi/tan-xin-greedy/README.md)
+  * [1705. 吃苹果的最大数目](fen-lei-lian-xi/tan-xin-greedy/1705.-chi-ping-guo-de-zui-da-shu-mu.md)
   * [846. 一手顺子](fen-lei-lian-xi/tan-xin-greedy/846.-yi-shou-shun-zi.md)
   * [300. 最长递增子序列](fen-lei-lian-xi/tan-xin-greedy/300.-zui-chang-di-zeng-zi-xu-lie.md)
   * [1029. 两地调度](fen-lei-lian-xi/tan-xin-greedy/1029.-liang-di-tiao-du.md)
