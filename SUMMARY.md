@@ -30,6 +30,7 @@
   * [单调栈](fen-lei-lian-xi/zhan-stack/dan-tiao-zhan/README.md)
     * [901. 股票价格跨度](fen-lei-lian-xi/zhan-stack/dan-tiao-zhan/901.-gu-piao-jia-ge-kua-du.md)
   * [括号问题](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/README.md)
+    * [32. 最长有效括号](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/32.-zui-chang-you-xiao-kuo-hao.md)
     * [678. 有效的括号字符串](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/678.-you-xiao-de-kuo-hao-zi-fu-chuan.md)
     * [2116. 判断一个括号字符串是否有效](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/2116.-pan-duan-yi-ge-kuo-hao-zi-fu-chuan-shi-fou-you-xiao.md)
     * [1249. 移除无效的括号](fen-lei-lian-xi/zhan-stack/kuo-hao-wen-ti/1249.-yi-chu-wu-xiao-de-kuo-hao.md)
