@@ -81,6 +81,8 @@
   * [1052. 爱生气的书店老板](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/1052.-ai-sheng-qi-de-shu-dian-lao-ban.md)
   * [567. 字符串的排列](fen-lei-lian-xi/hua-dong-chuang-kou-sliding-window-practice/567.-zi-fu-chuan-de-pai-lie.md)
 * [前缀和 Prefix Sum Practice](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/README.md)
+  * [二维前缀和](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/er-wei-qian-zhui-he/README.md)
+    * [363. 矩形区域不超过 K 的最大数值和](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/er-wei-qian-zhui-he/363.-ju-xing-qu-yu-bu-chao-guo-k-de-zui-da-shu-zhi-he.md)
   * [1031. 两个非重叠子数组的最大和](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/1031.-liang-ge-fei-zhong-die-zi-shu-zu-de-zui-da-he.md)
   * [238. 除自身以外数组的乘积](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/238.-chu-zi-shen-yi-wai-shu-zu-de-cheng-ji.md)
   * [1590. 使数组和能被 P 整除](fen-lei-lian-xi/qian-zhui-he-prefix-sum-practice/1590.-shi-shu-zu-he-neng-bei-p-zheng-chu.md)
