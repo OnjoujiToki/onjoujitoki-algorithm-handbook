@@ -64,6 +64,7 @@
   * [973. 最接近原点的 K 个点](fen-lei-lian-xi/you-xian-dui-lie-priority-queue/973.-zui-jie-jin-yuan-dian-de-k-ge-dian.md)
 * [二分搜索 Binary Search Practice](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/README.md)
   * [二分搜值](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/er-fen-sou-zhi/README.md)
+    * [2141. 同时运行 N 台电脑的最长时间](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/er-fen-sou-zhi/2141.-tong-shi-yun-hang-n-tai-dian-nao-de-zui-chang-shi-jian.md)
     * [1231. 分享巧克力](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/er-fen-sou-zhi/1231.-fen-xiang-qiao-ke-li.md)
     * [1482. 制作 m 束花所需的最少天数](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/er-fen-sou-zhi/1482.-zhi-zuo-m-shu-hua-suo-xu-de-zui-shao-tian-shu.md)
     * [1011. 在 D 天内送达包裹的能力](fen-lei-lian-xi/er-fen-sou-suo-binary-search-practice/er-fen-sou-zhi/1011.-zai-d-tian-nei-song-da-bao-guo-de-neng-li.md)
