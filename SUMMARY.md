@@ -38,6 +38,8 @@
 * [博弈论 Game Theory](fen-lei-lian-xi/bo-yi-lun-game-theory/README.md)
   * [1025. 除数博弈](fen-lei-lian-xi/bo-yi-lun-game-theory/1025.-chu-shu-bo-yi.md)
 * [字符串处理 String Manipulation](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/README.md)
+  * [字符串哈希](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/zi-fu-chuan-ha-xi/README.md)
+    * [1147. 段式回文](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/zi-fu-chuan-ha-xi/1147.-duan-shi-hui-wen.md)
   * [KMP](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/kmp/README.md)
     * [214. 最短回文串](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/kmp/214.-zui-duan-hui-wen-chuan.md)
   * [1023. 驼峰式匹配](fen-lei-lian-xi/zi-fu-chuan-chu-li-string-manipulation/1023.-tuo-feng-shi-pi-pei.md)
