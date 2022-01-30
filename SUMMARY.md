@@ -197,6 +197,7 @@
   * [593. 有效的正方形](fen-lei-lian-xi/ji-suan-ji-he-computational-geometry/593.-you-xiao-de-zheng-fang-xing.md)
   * [587. 安装栅栏](fen-lei-lian-xi/ji-suan-ji-he-computational-geometry/587.-an-zhuang-zha-lan.md)
 * [位运算 Bit Manipulation](fen-lei-lian-xi/wei-yun-suan-bit-manipulation/README.md)
+  * [Page 4](fen-lei-lian-xi/wei-yun-suan-bit-manipulation/page-4.md)
   * [338. 比特位计数](fen-lei-lian-xi/wei-yun-suan-bit-manipulation/338.-bi-te-wei-ji-shu.md)
   * [476. 数字的补数](fen-lei-lian-xi/wei-yun-suan-bit-manipulation/476.-shu-zi-de-bu-shu.md)
   * [190. 颠倒二进制位](fen-lei-lian-xi/wei-yun-suan-bit-manipulation/190.-dian-dao-er-jin-zhi-wei.md)
